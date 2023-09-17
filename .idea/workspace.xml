@@ -5,30 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="902f46e9-5e3b-488e-818c-11f27b2c14b8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/microservices-new/api-gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-new/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-new/api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/api-gateway/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/discovery-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/discovery-server/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/discovery-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/discovery-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-new/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/inventory-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/inventory-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/java/com/startjava/inventoryservice/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/java/com/startjava/inventoryservice/controller/InventoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/java/com/startjava/inventoryservice/model/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/java/com/startjava/inventoryservice/model/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/java/com/startjava/inventoryservice/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/java/com/startjava/inventoryservice/service/InventoryService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/inventory-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-new/notification-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/notification-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices-new/notification-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/notification-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/config/WebClientConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/config/WebClientConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/dto/OrderLineItemsDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/dto/OrderLineItemsDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/model/OrderLineItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/model/OrderLineItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/java/com/startjava/orderservice/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/order-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/order-service/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/product-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/microservices-new/product-service/src/main/java/com/startjava/productservice/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/product-service/src/main/java/com/startjava/productservice/ProductServiceApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/microservices-new/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/microservices-new/product-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,12 +56,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/arun.s/Documents/My Docs/MyProjects/microservices-new/microservices-new",
+    "last_opened_file_path": "C:/Users/arun.s/Documents/My Docs/MyProjects/microservices-new",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arun.s\Documents\My Docs\MyProjects\microservices-new\microservices-new" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean:clean" />
@@ -86,7 +81,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiscoveryServerApplication">
+  <component name="RunManager" selected="Application.NotificationServiceApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.startjava.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.startjava.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiscoveryServerApplication" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.startjava.discoveryserver.DiscoveryServerApplication" />
       <module name="discovery-server" />
@@ -106,6 +114,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.startjava.inventoryservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotificationServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.startjava.NotificationServiceApplication" />
+      <module name="notification-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.startjava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,15 +162,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.DiscoveryServerApplication" />
+      <item itemvalue="Application.ApiGatewayApplication" />
+      <item itemvalue="Application.NotificationServiceApplication" />
       <item itemvalue="Application.InventoryServiceApplication" />
       <item itemvalue="Application.OrderServiceApplication" />
       <item itemvalue="Application.ProductServiceApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InventoryServiceApplication" />
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.NotificationServiceApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.OrderServiceApplication" />
+        <item itemvalue="Application.InventoryServiceApplication" />
       </list>
     </recent_temporary>
   </component>
